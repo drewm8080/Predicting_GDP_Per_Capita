@@ -1,6 +1,3 @@
-After asking Professor Hermjakob, I decided to implement the code in the following way:
-
-
 First make sure any packages are installed that need to be (scikit learn, pandas etc), which the import statements are in the first few lines of code.
 
 
